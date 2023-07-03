@@ -1,6 +1,6 @@
 module github.com/perforce/p4prometheus
 
-go 1.18
+go 1.20
 
 require (
 	github.com/rcowham/go-libp4dlog v0.9.7
