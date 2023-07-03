@@ -1,7 +1,7 @@
 github.com/prometheus/common v0.15.0 h1:4fgOnadei3EZvgRwxJ7RMpG1k1pOZth5Pc13tyspaKM=
 github.com/rcowham/go-libtail v0.1.0/go.mod h1:+DkaEGPlgLKzIv26Br8l1Xd36GK52ENBZ8DIDTS/2HQ=
-github.com/supernova106/go-libtail v0.1.4 h1:kx8x3//0FCOKXtVuInniA03UaLzjlXxWlllQtstWOgI=
-github.com/supernova106/go-libtail v0.1.4/go.mod h1:fHPdpJbS5yu9Ab2ayU/BamCCvFGfeMllKtQa7rL5hRE=
+github.com/supernova106/go-libtail v0.1.5 h1:TRbpk5B9dxlct4rxhskWedQD4GndPYEOuHluxMNBnVw=
+github.com/supernova106/go-libtail v0.1.5/go.mod h1:fHPdpJbS5yu9Ab2ayU/BamCCvFGfeMllKtQa7rL5hRE=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 h1:psW17arqaxU48Z5kZ0CQnkZWQJsqcURM6tKiBApRjXI=
 golang.org/x/crypto v0.0.0-20210921155107-089bfa567519/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=

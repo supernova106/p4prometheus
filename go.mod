@@ -6,7 +6,7 @@ require (
 	github.com/rcowham/go-libp4dlog v0.9.7
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.6.1
-	github.com/supernova106/go-libtail v0.1.4
+	github.com/supernova106/go-libtail v0.1.5
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/yaml.v2 v2.4.0
 )
