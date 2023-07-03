@@ -1,7 +1,11 @@
 github.com/prometheus/common v0.15.0 h1:4fgOnadei3EZvgRwxJ7RMpG1k1pOZth5Pc13tyspaKM=
+github.com/rcowham/go-libtail v0.1.0/go.mod h1:+DkaEGPlgLKzIv26Br8l1Xd36GK52ENBZ8DIDTS/2HQ=
+github.com/supernova106/go-libtail v0.1.4 h1:kx8x3//0FCOKXtVuInniA03UaLzjlXxWlllQtstWOgI=
+github.com/supernova106/go-libtail v0.1.4/go.mod h1:fHPdpJbS5yu9Ab2ayU/BamCCvFGfeMllKtQa7rL5hRE=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 h1:psW17arqaxU48Z5kZ0CQnkZWQJsqcURM6tKiBApRjXI=
 golang.org/x/crypto v0.0.0-20210921155107-089bfa567519/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=
+golang.org/x/exp v0.0.0-20201008143054-e3b2a7f2fdc7 h1:2/QncOxxpPAdiH+E00abYw/SaQG353gltz79Nl1zrYE=
 golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4/go.mod h1:jJ57K6gSWd91VN4djpZkiMVwK6gcyfeH4XE8wZrZaV4=
 golang.org/x/net v0.0.0-20220722155237-a158d28d115b/go.mod h1:XRhObCWvk6IyKnWLug+ECip1KBveYUHfp+8e9klMJ9c=
 golang.org/x/net v0.2.0/go.mod h1:KqCZLdyyvdV855qA2rE3GC2aiw5xGR5TEjj8smXukLY=

@@ -46,8 +46,6 @@ github.com/prometheus/procfs v0.0.0-20181005140218-185b4288413d/go.mod h1:c3At6R
 github.com/prometheus/procfs v0.0.2/go.mod h1:TjEm7ze935MbeOT/UhFTIMYKhuLP4wbCsTZCD3I8kEA=
 github.com/rcowham/go-libp4dlog v0.9.7 h1:L5OCqbM4Du7s11kTSD7LB9e2m75X6Rqvk61O7dYs5Dk=
 github.com/rcowham/go-libp4dlog v0.9.7/go.mod h1:tXP32355AZCzppO+UM5NIPHjKFDqElVuZNcTtx2cwZ0=
-github.com/rcowham/go-libtail v0.1.1 h1:5/42xF1NwkxkCCdVGqqDuXgCjU8bUg+LoBIvtYHlU14=
-github.com/rcowham/go-libtail v0.1.1/go.mod h1:efr9HGliY5ChogWDHaHYstC9cW6CQqxLuZZLtfl0/NY=
 github.com/sirupsen/logrus v1.2.0/go.mod h1:LxeOpSwHxABJmUn/MG1IvRgCAasNZTLOkJPxbbu5VWo=
 github.com/sirupsen/logrus v1.4.2/go.mod h1:tLMulIdttU9McNUspp0xgXVQah82FyeX6MwdIuYE2rE=
 github.com/sirupsen/logrus v1.8.1 h1:dJKuHgqk1NNQlqoA6BTlM1Wf9DOH3NBjQyu0h9+AZZE=
@@ -59,6 +57,8 @@ github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UV
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/stretchr/testify v1.6.1 h1:hDPOHmpOpP40lSULcqw7IrRb/u7w6RpDC9399XyoNd0=
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
+github.com/supernova106/go-libtail v0.1.4 h1:kx8x3//0FCOKXtVuInniA03UaLzjlXxWlllQtstWOgI=
+github.com/supernova106/go-libtail v0.1.4/go.mod h1:fHPdpJbS5yu9Ab2ayU/BamCCvFGfeMllKtQa7rL5hRE=
 golang.org/x/crypto v0.0.0-20180904163835-0709b304e793/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550/go.mod h1:yigFU9vqHzYiE8UmvKecakEJjdnWj3jj499lnFckfCI=

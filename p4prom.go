@@ -17,9 +17,9 @@ import (
 	"github.com/perforce/p4prometheus/config"
 	"github.com/perforce/p4prometheus/version"
 	metrics "github.com/rcowham/go-libp4dlog/metrics"
-	"github.com/rcowham/go-libtail/tailer"
-	"github.com/rcowham/go-libtail/tailer/fswatcher"
-	"github.com/rcowham/go-libtail/tailer/glob"
+	"github.com/supernova106/go-libtail/tailer"
+	"github.com/supernova106/go-libtail/tailer/fswatcher"
+	"github.com/supernova106/go-libtail/tailer/glob"
 
 	"gopkg.in/alecthomas/kingpin.v2"
 
